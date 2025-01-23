@@ -12,4 +12,4 @@ This project implements the String Calculator Kata using Test-Driven Development
 2. Run tests: `pytest`
 
 ## Repository
-Hosted on [GitHub](<repository_url>).
+Hosted on [GitHub](<https://github.com/ShyamSunderSingh1/python-string-calculator>).
